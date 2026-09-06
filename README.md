@@ -573,14 +573,6 @@ It demonstrates how electrical parameters such as **motor current**, along with 
 
 ---
 
-## 📄 Resume Description
-
-**Predictive Maintenance for Medical Equipment | ESP32, ACS712, DHT11, SW-420, Blynk, L298N**
-
-> Developed an IoT-enabled condition-monitoring prototype using ESP32 to continuously monitor motor current, vibration, temperature and humidity. Implemented threshold-based fault detection with automatic motor shutdown during excessive-current conditions and integrated LCD/Blynk dashboards for local and remote monitoring.
-
----
-
 ## 🏷️ GitHub Topics
 
 ```text
